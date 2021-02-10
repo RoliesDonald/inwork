@@ -9,7 +9,7 @@ var uglify = require('gulp-uglify');
 var browserSync = require('browser-sync').create();
 var reload = browserSync.reload;
 var notify = require("gulp-notify");
-var runSequence = require('run-sequence');
+
 
 gulp.task('sass', function() {
     return gulp.src('./assets/scss/landio.scss')
