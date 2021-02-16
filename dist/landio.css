@@ -8283,7 +8283,7 @@ body {
 
 .jumbotron {
   margin-bottom: 0;
-  background: #663fb5 url(../img/bg-header.jpg) no-repeat center bottom;
+  background: #663fb5 url(../img/gallery/hk_port1.jpg) no-repeat center bottom;
   background-size: cover;
   border-radius: 0; }
   @media (max-width: 767.98px) {
@@ -8705,7 +8705,6 @@ figure {
 
 .section-testimonials {
   padding-bottom: 3rem;
-  background: #663fb5 url(../img/bg-testimonials.jpg) no-repeat center bottom;
   background-size: cover; }
   @media (min-width: 768px) {
     .section-testimonials {

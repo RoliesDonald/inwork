@@ -601,7 +601,7 @@
                                                     // static
                                                     .jumbotron {
                                                         margin-bottom: 0;
-                                                        background: #663fb5 url(../img/bg-header.jpg) no-repeat center bottom;
+                                                        background: #663fb5 url(../img/gallery/hk_port1.jpg) no-repeat center bottom;
                                                         background-size: cover;
                                                         border-radius: 0;
                                                         @include media-breakpoint-down(sm) {
@@ -1129,7 +1129,7 @@
                                                     // --------------------------------------------------
                                                     .section-testimonials {
                                                         padding-bottom: 3rem;
-                                                        background: #663fb5 url(../img/bg-testimonials.jpg) no-repeat center bottom;
+                                                        
                                                         background-size: cover;
                                                         @include media-breakpoint-up(md) {
                                                             padding-bottom: 2.5rem;
